@@ -135,17 +135,20 @@ Include this line:
 
 ## Your Article
 
+ How One Decision Transformed a Career.
+  
 Over the last four years, Mrs Oyebajo Inioluwa Flourish established herself as a respected DevOps Engineer by combining technical excellence with continuous learning and a passion for solving real world problems. She initally began her journey with a foundation in Product Analysis before she decided to expand her expertise by learning python, cloud technologies and mordern DevOps practices. Through discipline and consistency she succesfully transitioned into a career that focused on atomation, cloud infrastructure and software delivery.
  Mrs Oyebajo built and deployed multiple cloud based projects that demonstrated het ability to design reliable and secure system. She shiped automation solutions that reduced deployment time and improved the efficiency of development teams. Her GitHub portfolio showcased alot of DevOps project which served as strong evidence of her technical abilities and attracted the attention of recruiters and employers.
 She earned professional certifications in cloud computing and DevOps, which strengthened her experties and credibility in the technology industry. She published articles documenting lessons learned from real projects making complex concepts easier for beginners to understand. And this contributed greatly to the uprising of peoeples intrest in tech.
 Before entering the tech industry, Mrs Oyebajo gained valuable experience as a secretary and content creation. Those experiences strengthened her communication and leadership skills. She applied those strength to lead project discussions, collaborate with cross funtional teams and present technical solutions with confidence.
  Mrs Flourish contributed to open sourse projects and actively mentored aspiring technology professionals who were trying to start their own journeys. Her commitment to learning and helping others created a positive impact in the DevOps community.
  Today, Mrs oyebajo Inioluwa's portfolio, GitHub profile, certifications, published articles and successful project deliveries reflect remarkable transformation she acheived in just a few years. Her journey stands as evidence that consistent effort,practical experience, and commitment to learning produced lasting sucess in the technology industry. 
+ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://medium.com/@inioluwaflourish12/how-one-decision-transformed-a-career-5c3e874317f5`
 
 ---
 
@@ -383,7 +386,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/@inioluwaflourish12/how-one-decision-transformed-a-career-5c3e874317f5 
 
 ---
 
