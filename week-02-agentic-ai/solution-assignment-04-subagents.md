@@ -33,19 +33,19 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+It uses Haiku instead of sonnet because its affordable and doesn't need a very powerful model to do its job. Since the main task is to review resources and suggest ways to reduce cost Haiku is the best option.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The job of the security_auditor is to check for security issues and not to make any changes to files. This really helps agents to avoid making accidental edits and keeps them focused on reviewing and reporting any problems.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf_writer uses inherit so it automatically follows whichever model is currently being used in claude. This makes it more flexible and allows it to adapt without being tied to one specific model.
 
 ---
 
@@ -73,13 +73,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 4 task3).png>)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 4 task3).png>)
 
 ---
 
@@ -93,7 +93,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6 (Assignment 4 task 4).png>)
 
 ---
 
@@ -107,7 +107,7 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
 `__________________________`
 
