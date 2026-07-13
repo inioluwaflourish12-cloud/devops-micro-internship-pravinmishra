@@ -74,7 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6 (Assignment 3 task4).png>)
 
 ---
 
@@ -88,13 +88,13 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
 `__________________________`
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-terraform-git-share-7481415516318842880-Xal7/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
 `__________________________`
 ---
