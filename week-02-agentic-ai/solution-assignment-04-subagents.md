@@ -20,8 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
-
+![alt text](<screenshots/Screenshot 1 (Assignment 4 task1).png>)
 ---
 
 # Task 2 — Compare the Agent Configurations
@@ -54,13 +53,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 4 task 2).png>)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 4 task 2).png>)
 
 ---
 
