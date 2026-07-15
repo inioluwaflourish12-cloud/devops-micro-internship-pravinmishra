@@ -48,7 +48,7 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 5 task3).png>)
 
 ---
 
@@ -62,7 +62,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — `/mcp` output showing `github: connected`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4(Assignment 5 task4).png>)
 
 ---
 
@@ -76,7 +76,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing your real GitHub repositories (you may blur individual repo names if preferred)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5(Assignment 5 task 5).png>)
 
 ---
 
@@ -92,7 +92,7 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
 `__________________________`
 
