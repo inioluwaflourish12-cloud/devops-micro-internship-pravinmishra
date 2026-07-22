@@ -46,13 +46,13 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 8 task 1).jpeg>)
 
 ---
 
 ### Submission Field
 
-Blog Link:
+https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2
 
 `__________________________________________`
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 linked in post.jpeg>)
 
 ---
 
@@ -108,6 +108,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
+https://lnkd.in/p/eKnR99Qc
 `__________________________________________`
 
 ---

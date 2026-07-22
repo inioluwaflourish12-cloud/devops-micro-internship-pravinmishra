@@ -1,0 +1,2 @@
+- [Portfolio Terraform baseline](project_portfolio_terraform_baseline.md) — S3+CloudFront+OAC static site architecture and known gaps as of 2026-07-13
+- [User/repo context](user_context.md) — micro-internship learning repo; give concrete copy-pasteable fixes, grade severity for a small static site

@@ -1,0 +1,4 @@
+- [CloudFront PriceClass Optimization](cloudfront_price_class.md) — Change PriceClass_200 to PriceClass_100 for portfolio site
+- [S3 Storage Strategy](s3_storage_analysis.md) — Standard is appropriate; no immediate optimization needed
+- [Caching Configuration](cloudfront_caching.md) — CachingOptimized policy is well-configured
+- [Infrastructure Overview](infrastructure_summary.md) — Static HTML portfolio with S3 + CloudFront in ap-south-1

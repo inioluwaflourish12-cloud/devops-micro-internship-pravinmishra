@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I beleive that nothing true and worthy comes for free without working hard for it. We live in a generation where people have forgoten the principles of how life works. True success is only a story written for people who made a decision on wether to survive or thrive.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Asking for help when i'm stuck helps me learn faster
 
 ### Evidence from my life
 
-Add your answer here...
+During this assignment journey, i encountered several errors that i found strange, didnt understand and i couldnt solve on my own. By asking for guidiance from from my fellow mates, chatgpt and then applying their suggestions I understood my mistakes and successfully corrected the errors. 
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Learning by doing is more effective than only reading or watching tutorials
 
 ### Evidence from my life
 
-Add your answer here...
+Before joining the DmI program, I only heard about Git but i've never used it. After istalling it, cloning a repository and doing other things myself, i can say it's an experiance that.s gonna stick with me. I better understood the concept than just reading them. practice helped the theory come to life even in mind.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Our mistakes are the first opening to gaining more knowledge
 
 ### Evidence from my life
 
-Add your answer here...
+I've made a lot of mistakes in life which has helped me to do better and improve by correcting them. When i see the results of my mistakes I try to find a solution and makes sure it doesn't happen again. This is something that has helped me get to where i am today not just in my carreer but in my personal life style
 
 ---
 
@@ -134,14 +134,23 @@ Include this line:
 > **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
 
 ## Your Article
+How One Decision Transformed a Career.
 
-Add your answer here...
-
+ How One Decision Transformed a Career.
+  
+Over the last four years, Mrs Oyebajo Inioluwa Flourish established herself as a respected DevOps Engineer by combining technical excellence with continuous learning and a passion for solving real world problems. She initally began her journey with a foundation in Product Analysis before she decided to expand her expertise by learning python, cloud technologies and mordern DevOps practices. Through discipline and consistency she succesfully transitioned into a career that focused on atomation, cloud infrastructure and software delivery.
+ Mrs Oyebajo built and deployed multiple cloud based projects that demonstrated het ability to design reliable and secure system. She shiped automation solutions that reduced deployment time and improved the efficiency of development teams. Her GitHub portfolio showcased alot of DevOps project which served as strong evidence of her technical abilities and attracted the attention of recruiters and employers.
+She earned professional certifications in cloud computing and DevOps, which strengthened her experties and credibility in the technology industry. She published articles documenting lessons learned from real projects making complex concepts easier for beginners to understand. And this contributed greatly to the uprising of peoeples intrest in tech.
+![alt text](week-01-screenshot-01-1.jpeg)
+Before entering the tech industry, Mrs Oyebajo gained valuable experience as a secretary and content creation. Those experiences strengthened her communication and leadership skills. She applied those strength to lead project discussions, collaborate with cross funtional teams and present technical solutions with confidence.
+ Mrs Flourish contributed to open sourse projects and actively mentored aspiring technology professionals who were trying to start their own journeys. Her commitment to learning and helping others created a positive impact in the DevOps community.
+ Today, Mrs oyebajo Inioluwa's portfolio, GitHub profile, certifications, published articles and successful project deliveries reflect remarkable transformation she acheived in just a few years. Her journey stands as evidence that consistent effort,practical experience, and commitment to learning produced lasting sucess in the technology industry. 
+ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://medium.com/@inioluwaflourish12/how-one-decision-transformed-a-career-5c3e874317f5
 
 ---
 
@@ -167,13 +176,13 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+Yes
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
+There was atime when I copied an entire assignment instead of completing it myself. At first, I felt relieved because it saved me time and reduced the stress of solving the questions. However, I soon felt guilty because I realized i learned nothing from the assignment. I also felt it was unfair because the other student had put in the effort to study while I simply copied their work. I felt ashamed cause I knew I was feeding off someone else's hardwork.
 
 ---
 
@@ -199,16 +208,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits by James Clear
+2. The Psycology of Money by Morgan Housel
+3. Make Time by Jake Knapp & John Zeratsky
+4. The DevOps Handbook by Gen Kim, Jez Humb,Patrick Debois, John Wills & John Allspaw
+5. The Mountain is You by Brianna Wiest
+6. So Good They Can't Ignore You by Cal Newport  
+7. Deep Work by Cal Newport
+8. The First 90 Days by Michael D.Watkins
+9. The Pheonix Project by Gen Kim, Kevin Behr and George Spafford
+10. How To Win Friends and Influence People by Dale Carnegie
 
 ---
 
@@ -237,16 +246,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Health and energy level
+* My DevOps learning progress
+* Personal projects completed
+* Network and Professional connection
+* Time spent learning and relaxing
+* Personal spending and income
+* Bible study and personal growth
+* Cloud computing Skills
+* Portfolio updates
+* Savings
 
 ---
 
@@ -270,9 +279,19 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes
 
-Add your answer here...
+
+- Finishing my DevOps assignment before the deadline.
+- I really hope i can do well in the programm so i dont get kicked out.
+- Figure out how to balance work and studying.
+- Learn devops without feelling overwhelmed
+- Spend more time with God and stay consistent in reading my bible.
+- Make time to socialize and rest when im mentaly exhausted.
+- Make more money to support my family
+- Believing that all my hardwork will pay off someday.
+- Attain as much knowledge on DevOps so i can start excuting them.
+- Be the best student in my group
 
 ---
 
@@ -290,7 +309,26 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday-friday:
+- Work at the office 8am-6pm.
+- 2hrs of deep work for DMI.
+- 20-30min of bible study at night.
+- 1hr of video games to destress.
+- Get at least 7hrs of sleep and prepare for the next workday
+
+Saturday
+- Attend DMI learning session.
+- Work at the office
+- Review everthing learned during the week.
+- Relax nd recharge.
+
+Sunday
+- Go to Church.
+- Spend some time with friends.
+- Calculate my expenses for the week and arrange my budget.
+- Plan the next week.
+- Read a few pages of motivational books.
+
 
 ---
 
@@ -298,11 +336,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+- Monday-friday:12PM -1:30PM & 7PM-8PM
+- Saturdays: After DMI 8hr session 7pm-8pm
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Six sessions per week
 
 ---
 
@@ -316,7 +356,10 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+- Freeze my social media apps during my DMI study session
+- Keep my phone away unless I'm using it to learn
+- Study in a quiet place during my study session.
+- Have the things i need around me so is don't get distracted by standing up and moving around.
 
 ---
 
@@ -324,28 +367,28 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I learn best by being practical, not just by reading or watching.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My self doubt is greater than my self belief.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every sunday, i will review my progress and prepare to br even more productive in the coming week. By 5pm, I'll journal afew progresses and meditate on how to be better and the next step to take.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-cloudcomputing-learninginpublic-share-7478462431971909632-LiER/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-cloudcomputing-learninginpublic-share-7478462431971909632-LiER/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
+- Blog / Medium :   https://medium.com/@inioluwaflourish12/how-one-decision-transformed-a-career-5c3e874317f5
 
 ---
 
