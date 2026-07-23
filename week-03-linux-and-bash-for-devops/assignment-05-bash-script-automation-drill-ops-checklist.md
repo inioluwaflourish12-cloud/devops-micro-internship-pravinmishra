@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1(Assignment 5 task1).png>)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task1).png>)
 
 ---
 
@@ -36,19 +36,19 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash is a command-line interpreter that allows users to interact with the Linux operating system.
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a general program that allows users to communicate with the operating system while bash is a specific type of shell and is one of the most popular shells used in Linux. 
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+It is important because different versions support different features and syntax so confirming the version helps to make sure that the script will run correctly and avoids compatibility issues on the system.
 
 ---
 
@@ -62,19 +62,19 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1(Assignment 5 task2).png>)
 
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task2.png>)
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 5 task2).png>)
 
 ---
 
@@ -84,19 +84,20 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
+The #!/bin/bash tells the operating system to use the Bash shell to run the script.
 
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
+We do that to make the script executable. Without executable permission, the operating system will not allow the script to be run directly.
+
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+Running a script with ./script.sh executes the script directly, so it must have executable permission and a valid shebang line. Running bash script.sh tells Bash to execute the script directly, so the script can run even if it is not marked as executable.
 
 ---
 
@@ -110,13 +111,13 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task3).png>)
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task 3).png>)
 
 ---
 
@@ -126,19 +127,19 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+A variable in Bash is used to store information, such as text or numbers, that can be used later in a script. It makes scripts more flexible and easier to update.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
+If spaces are added, Bash treats them as separate commands or arguments, which can cause an error.
 
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+You access the value of a Bash variable by putting a dollar sign ($) before the variable name. For example, if the variable is name, you can access its value using $name
 
 ---
 
@@ -152,13 +153,13 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task 4).png>)
 
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task 4).png>)
 
 ---
 
@@ -168,25 +169,25 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+An array in Bash is a variable that stores multiple values under one variable name.
 
 ---
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+Arrays are useful for storing and processing multiple related values and maintaining scripts.
 
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+It refers to all the elements in the tools array, allowing the script to access each item one by one.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop goes through each item in the tools array and performs the same action for every item, which in this script is printing each tool name
 
 ---
 
@@ -200,13 +201,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task5).png>)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task5).png>)
 
 ---
 
@@ -216,25 +217,25 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+A loop is a programming structure that repeats a block of code multiple times until a condition is met or all items have been processed.
 
 ---
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+We use loops in Bash scripting to automate repetitive tasks, reduce duplicate code, and make scripts more efficient.
 
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+The loop ran 5 times.
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+I would change the loop's range or condition so that it counts from 1 to 10 instead of 1 to 5.
 
 ---
 

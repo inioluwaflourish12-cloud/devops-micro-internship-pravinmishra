@@ -20,13 +20,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 6 task1).png>)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 6 task1).png>)
 
 ---
 
@@ -36,19 +36,18 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The command systemctl is-active nginx returned active, which confirms that the Nginx service is running properly.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
-
+The command ss -ltn | grep ':80' showed that port 80 is in the LISTEN state.
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+A healthy baseline lets you know what the system looks like when everything is working correctly. 
 
 ---
 
@@ -72,19 +71,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Project-specific operational rules tell Claude what it is allowed and not allowed to do. This helps it analyze incidents safely, follow the correct workflow, and avoid making changes that could damage the system.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human must execute the recovery command because Claude is only allowed to recommend recovery steps, not perform them. This ensures that a person reviews and approves any changes before they are made.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule that says "Do not claim a root cause unless the report contains supporting evidence." 
 
 ---
 

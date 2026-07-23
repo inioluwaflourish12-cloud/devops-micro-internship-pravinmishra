@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![alt text](<screenshots/Task1 Chatgpt.jpeg>)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate with each other over a network. Just like people need to follow certain rules to have a clear conversation, computers also use protocols to exchange information correctly. This helped me understand why protocols are important for reliable communication on the internet.
 
 ---
 
@@ -59,7 +59,16 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+EpicReads is hosted on a server in Finland, but users from different countries can still access it
+through the internet. Every device connected to the internet has an IP address, which helps
+identify where data should be sent.
+When a user opens the EpicReads website, the browser uses HTTP/HTTPS to request
+information from the server. HTTPS keeps the connection secure and protects user data. The
+internet also uses TCP/IP protocols to make sure the data is delivered correctly between the
+user and the website.
+Information is transferred using packet switching, where data is divided into small packets and
+sent through different routes before being combined again at the destination. These networking
+technologies allow people around the world to use EpicReads quickly and safely.
 
 ---
 
@@ -91,7 +100,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![alt text](<screenshots/Task3 diagram.jpeg>)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +111,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Next.js
+* Tailwind.css
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* JWT
+* Bcrypt.js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
 
 ---
 
@@ -142,7 +151,15 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the internet. It helps users access
+websites using easy-to-remember domain names instead of typing complicated IP addresses.
+When someone enters epicreads.com into a web browser, DNS translates the domain name
+into the server’s IP address, which in this case is 52.172.142.222. The :3000 part represents a
+port number used by the application running on the server.
+To connect the domain name to the server’s IP address, an A Record should be used because
+it maps a domain name to an IPv4 address. This makes it easier for users worldwide to visit the
+EpicReads website quickly, conveniently, and without needing to memorize numerical IP
+addresses.
 
 ---
 
@@ -178,7 +195,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![alt text](<screenshots/Task5 vscode.jpeg>)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -215,19 +232,39 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_im-really-excited-to-share-that-ive-been-activity-7463973360469852161-KfKi?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I'm excited to share that I’ve been learning the fundamentals of DevOps through practical tasks and hands-on exercises 🚀
+
+Here are some of the topics I worked on:
+
+🔹 ChatGPT
+Learned how AI tools like ChatGPT can help simplify technical concepts, improve understanding, and assist with assignments and learning.
+
+🔹 Internet & Networking
+Studied how websites are accessed globally using concepts like Packet Switching, IP Addresses, TCP/IP, and HTTP/HTTPS.
+
+🔹 App Architecture
+Learned the difference between Two-Tier and Three-Tier architectures, including the roles of Frontend, Backend, and Database layers.
+
+🔹 DNS
+Understood how DNS works like the phonebook of the internet by converting domain names into IP addresses. Also learned about DNS records like the A Record used for IPv4 addresses.
+
+🔹 VS Code Setup
+Installed Visual Studio Code, explored the integrated terminal, and practiced basic commands while setting up my development environment.
+
+This journey has been a great introduction to DevOps concepts, and I’m excited to keep learning and building more skills 💻🔥
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
 
 ---
 
@@ -235,19 +272,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand the basic networking concepts because the explanations and examples made them simple to follow
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+I found it a little difficult to understand some of the technical terms at first, especially DNS records and application architecture, but with more reading and practice, I understood them better.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve by practicing more, asking questions whenever I'm unsure, and spending more time learning about DevOps tools and concepts.
 
 ---
 
