@@ -255,13 +255,13 @@ Add your screenshot here.
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2(Assignment 5 task6).png>)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 5 task6).png>)
 
 ---
 
@@ -271,25 +271,25 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
+-d checks whether a specified path exists and is a directory.
 
 ---
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
+-f checks whether a specified path exists and is a regular file
 
 ---
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+Storing file and directory paths in variables makes scripts easier to read, update, and reuse. You only need to change the path in one place if it changes.
 
 ---
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
+If the file does not exist, the -f test returns false, and the script can display a message or take another action, such as creating the file or exiting.
 
 ---
 
@@ -303,25 +303,25 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task7).png>)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task 7).png>)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 5 task7).png>)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignments 5 task7).png>)
 
 ---
 
@@ -331,25 +331,25 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+The if-else statement allows a script to make decisions by running different commands depending on whether a condition is true or false.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+-ge means greater than or equal to. It is used to compare two numbers in Bash.
 
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+Conditions should be tested with different values to make sure the script works correctly in all situations and handles different inputs properly.
 
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+Conditionals help automation scripts make decisions automatically, such as checking for errors, validating input, or choosing the correct action based on different conditions.
 
 ---
 
@@ -363,19 +363,19 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task8).png>)
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task8).png>)
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 5 task8).png>)
 
 ---
 
@@ -385,25 +385,24 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
-
+A function in Bash is a reusable block of code that performs a specific task. 
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions help organize code, reduce repetition, and make scripts easier to read, maintain, and update.
 
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+I created the print_header(), print_user_details(), and check_files() functions.
 
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+The script uses variables to store information, arrays to hold multiple values, loops to repeat tasks, conditionals to make decisions, file checks to verify files and directories, and functions to organize the code into reusable sections.
 
 ---
 
@@ -413,15 +412,15 @@ Add your answer here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-linux-bashscripting-ugcPost-7486090721876180993-0IjN/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`__________________________`
+
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![alt text](<screenshots/Assignment 5 linkedin post.jpeg>)
 
 ---
 

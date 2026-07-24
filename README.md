@@ -77,7 +77,7 @@ This is not a course. It is an internship-style program — real deployments, re
  [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
 <!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -131,9 +131,10 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_im-really-excited-to-share-that-ive-been-activity-7463973360469852161-KfKi?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M | — |
-| 01 | Success Mindset |✅ Completed | ✅ Solved | https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2 |  https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2|
+| 01 | Success Mindset |✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-cloudcomputing-learninginpublic-share-7478462431971909632-LiER/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
+|  https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2|
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://lnkd.in/p/eKnR99Qc | https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2 |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-linux-bash-ugcPost-7486487532021510144-AQFi/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |

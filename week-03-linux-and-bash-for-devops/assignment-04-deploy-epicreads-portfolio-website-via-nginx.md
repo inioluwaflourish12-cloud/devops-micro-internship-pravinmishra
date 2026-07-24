@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1(Assignment 4 task0).png>)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 4 task1).png>)
 
 ---
 
@@ -48,7 +48,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2(Assignment 4 task2).png>)
 
 ---
 
@@ -62,13 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 4 task3).png>)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 4 task3).png>)
 
 ---
 
@@ -82,13 +82,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 4 task4).png>)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6 (Assignment 4 task4).png>)
 
 ---
 
@@ -102,13 +102,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 7(Assignment 4 task5).png>)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 8 (Assignment 4 task 5).png>)
 
 ---
 
@@ -118,7 +118,7 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-linux-nginx-share-7485717424755900417--KRU/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
 `__________________________`
 
@@ -126,7 +126,7 @@ Paste your LinkedIn post URL here:
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+![alt text](<screenshots/Assignment 4 linked in screenshot.jpeg>)
 
 ---
 
