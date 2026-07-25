@@ -249,7 +249,7 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task6).png>)
 
 ---
 
