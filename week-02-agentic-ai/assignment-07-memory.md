@@ -99,7 +99,6 @@ Paste your Linkedin post link here:
 
 https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
-`Add your URL here`
 
 ---
 

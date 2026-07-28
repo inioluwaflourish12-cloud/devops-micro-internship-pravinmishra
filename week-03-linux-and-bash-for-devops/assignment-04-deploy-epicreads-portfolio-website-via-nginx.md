@@ -120,7 +120,6 @@ Verify the deployed website and Nginx service are healthy.
 
 https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-linux-nginx-share-7485717424755900417--KRU/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`Add your URL here`
 
 ---
 

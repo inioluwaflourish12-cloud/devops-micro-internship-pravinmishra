@@ -90,13 +90,13 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
-`Add your URL here`
+---
 
 ## LinkedIn post URL
 
 https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-terraform-git-share-7481415516318842880-Xal7/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`Add your URL here`
+
 ---
 
 # Completion Checklist

@@ -415,11 +415,6 @@ The script uses variables to store information, arrays to hold multiple values, 
 https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-linux-bashscripting-ugcPost-7486090721876180993-0IjN/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
 
-<<<<<<< HEAD
-=======
-`Add your URL here`
->>>>>>> upstream/main
-
 ---
 
 #### Screenshot — Published LinkedIn post

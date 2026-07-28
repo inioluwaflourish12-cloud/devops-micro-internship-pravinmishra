@@ -379,7 +379,6 @@ Cloud resources should be stopped or terminated when they are no longer needed t
 
 https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-aws-linux-ugcPost-7485681860971479041-jgfL/?utm_source=screenshot_social_share&utm_medium=android_app&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M&utm_campaign=copy_link
 
-`Add your URL here`
 
 ---
 

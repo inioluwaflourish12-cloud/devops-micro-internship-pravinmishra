@@ -142,13 +142,12 @@ Verify the React application is publicly accessible via the server's public IP.
 
 https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_aws-ec2-reactjs-share-7484192080383176704-yrLy/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`Add your URL here`
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-![alt text](<screenshots/Screenshot for linkedin post.jpeg>)
+![alt text](<screenshots/Linkedin post for assignment 2 week2.png>)
 
 ---
 

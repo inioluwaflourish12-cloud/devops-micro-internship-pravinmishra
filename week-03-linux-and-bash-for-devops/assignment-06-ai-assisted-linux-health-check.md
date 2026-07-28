@@ -475,7 +475,6 @@ Act: I manually restarted Nginx using the recommended command.
 
 https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-linux-bash-ugcPost-7486487532021510144-AQFi/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`Add your URL here`
 
 ---
 
@@ -489,7 +488,6 @@ https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-linu
 
 https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
-`Add your URL here`
 
 ---
 

@@ -109,7 +109,6 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 https://github.com/inioluwaflourish12-cloud/devops-micro-internship-pravinmishra.git
 
-`Add your URL here`
 
 ---
 
