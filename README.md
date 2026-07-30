@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_im-really-excited-to-share-that-ive-been-activity-7463973360469852161-KfKi?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M | https://medium.com/@inioluwaflourish12/im-really-excited-to-share-that-ive-been-learning-the-fundamentals-of-devops-through-practical-99f8f4c6e5e1 |
 | 01 | Success Mindset |✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_devops-cloudcomputing-learninginpublic-share-7478462431971909632-LiER/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
-|  https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2|
+|  |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://lnkd.in/p/eKnR99Qc | https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-linux-bash-ugcPost-7486487532021510144-AQFi/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M | https://medium.com/@inioluwaflourish12/completed-week-3-of-my-devops-micro-internship-7236b1b78572 |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
