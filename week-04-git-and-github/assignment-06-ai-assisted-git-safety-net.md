@@ -119,7 +119,7 @@ The line containing grep -qE 'AKIA[0-9A-Z]{16}|-----BEGIN (RSA|OPENSSH|PRIVATE) 
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-
+No. A fixed rule only catches patterns it has been programmed to recognize. If a secret was stored in a different format without the AKIA pattern, the hook might miss it. This highlights the limitation of fixed-rule checks and the need for AI review and human oversight.
 
 ---
 
