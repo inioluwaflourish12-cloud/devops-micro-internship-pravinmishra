@@ -101,7 +101,15 @@ Your post must include:
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 Reflection – DevOps Micro-Internship
+
+This week completely changed how I think about AI developer tools.
+One feature that stood out to me was Claude Code's project memory. Instead of repeating the same context every time, I learned how to teach Claude information about a project and have it remember it across sessions.
+It's a small feature, but it showed me how AI can become a more reliable development partner not just by generating code, but by retaining project context over time.
+Beyond memory, I also explored MCP, hooks, permissions, and AI-assisted workflows. There were definitely moments of debugging and frustration, but solving those problems taught me just as much as the successful runs.
+Every assignment is helping me become more comfortable working with AI as part of a real development workflow.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/ejM-cVu2 ).
 ```
 
 ---
@@ -109,7 +117,7 @@ Paste your LinkedIn post content here
 ### LinkedIn Post Link:
 
 https://lnkd.in/p/eKnR99Qc
-`__________________________________________`
+
 
 ---
 
