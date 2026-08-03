@@ -90,7 +90,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 ## Linkedin Post Link
 
 
-https://lnkd.in/p/ejiPeG6x
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmi-cohort-4-live-micro-internship-waiting-activity-7488978620254863360-HTbu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
 
 ---
