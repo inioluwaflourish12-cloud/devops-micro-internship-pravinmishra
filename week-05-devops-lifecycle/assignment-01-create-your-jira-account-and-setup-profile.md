@@ -70,13 +70,13 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 1 task 4).png>)
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 1 task 4).png>)
 
 ---
 
