@@ -83,7 +83,7 @@ This is not a course. It is an internship-style program — real deployments, re
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) 
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+ [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
 <!-- Week 06 → AWS Cloud -->
 <!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
@@ -136,7 +136,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-agenticai-claudecode-activity-7483195898101956608-g6XC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M | https://medium.com/@inioluwaflourish12/reflection-for-week-2-by-oyebajo-inioluwa-flourish-e9315d5fd1b2 |
 | 03 | Linux & Bash for DevOps | ✅ Completed |✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-linux-bash-ugcPost-7486487532021510144-AQFi/?utm_source=share&utm_medium=member_android&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M | https://medium.com/@inioluwaflourish12/completed-week-3-of-my-devops-micro-internship-7236b1b78572 |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-git-github-activity-7488925833009561600-hxoI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M |https://medium.com/@inioluwaflourish12/wrapped-up-week-4-of-my-devops-micro-internship-by-building-a-git-pre-commit-hook-and-a-claude-code-cb25fe23be31 |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_dmibypravinmishra-agenticai-claudecode-activity-7491525108700876800-22Fx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M  | https://medium.com/@inioluwaflourish12/devops-lifecycle-8bdb7434411f?sharedUserId=inioluwaflourish12 |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |

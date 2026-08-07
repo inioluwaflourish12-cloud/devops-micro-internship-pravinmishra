@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 4 task1).png>)
 
 ---
 
@@ -42,7 +42,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 4 task2).png>)
 
 ---
 
@@ -56,7 +56,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 4 task3).png>)
 
 ---
 
@@ -70,13 +70,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 4 task 4).png>)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 4 task4).png>)
 
 ---
 
@@ -90,7 +90,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6(Assignment  4 task5).png>)
 
 ---
 
@@ -98,7 +98,7 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+I initially considered assigning 1 point to Job Card Typography but kept it at 2 points because it requires testing across multiple job cards.
 
 ---
 
@@ -112,13 +112,12 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
-
+![alt text](<screenshots/Screenshot 7 (Assignment 4 task6).png>)
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 8 (Assignment4 task6).png>)
 
 ---
 
@@ -132,7 +131,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 9 (Assignment 4 Task7).png>)
 
 ---
 
@@ -146,19 +145,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 10 (Assignment 4 task8).png>)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 11 (Assignment 4 task8).png>)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 12 (Assignment 4 task8).png>)
 
 ---
 
@@ -172,7 +171,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 13 (Assignment 4 task9).png>)
 
 ---
 
@@ -186,15 +185,14 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_completed-a-scrum-based-ui-improvement-sprint-activity-7491450513532616705-5zyH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`Add your URL here`
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![alt text](<screenshots/linkedin post for assignment 4.png>)
 
 ---
 

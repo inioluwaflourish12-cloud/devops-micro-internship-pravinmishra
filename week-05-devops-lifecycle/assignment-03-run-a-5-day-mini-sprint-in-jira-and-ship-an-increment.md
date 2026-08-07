@@ -20,13 +20,13 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 3 task 01.png>)
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 3 task1).png>)
 
 ---
 
@@ -40,25 +40,25 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 3 task 2).png>)
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 3 task2).png>)
 
 ---
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 3 task2).png>)
 
 ---
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6 (Assignment 3 task2).png>)
 
 ---
 
@@ -72,25 +72,25 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 7 (Assignment  3 task3).png>)
 
 ---
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 8 (Assignment 3 task3).png>)
 
 ---
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 7 (Assignment  3 task3).png>)
 
 ---
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 10 (Assignment 3 task3).png>)
 
 ---
 
@@ -104,19 +104,19 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 11 — Desktop EC2 view showing the polished footer
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 11 (Assignment 3 task4).png>)
 
 ---
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 12 (Assignment 3 task4).png>)
 
 ---
 
 #### Screenshot 13 — Jira Story comment showing the Day 3 Daily Scrum update
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 13 (Assignment 3 task4).png>)
 
 ---
 
@@ -130,7 +130,7 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 14 (Assignment 3 task5).png>)
 
 ---
 
@@ -144,27 +144,25 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 15 — Burndown Chart for Sprint 1
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 15 (Assignment 3 task6).png>)
 
 ---
 
 #### Screenshot 16 — Jira retrospective comment
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 16 (Assignment 3 task6).png>)
 
 ---
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 17 (Assignment 3 task6).png>)
 
 ---
 
 #### Demo Video URL
 
-Paste your unlisted YouTube or accessible Google Drive demo-video link here:
-
-`Add your URL here`
+https://youtu.be/I09ekMYV_D4?si=w0SmsYAcnlgLvKhs
 
 ---
 
@@ -178,9 +176,9 @@ Publish a LinkedIn post about your five-day mini-Sprint, including your GitHub r
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_completed-a-five-day-mini-sprint-in-jira-activity-7491086820131291136-3tOg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGYlOYBOn_PsB7jgFY6vcn0UKQqKg7ZS4M
 
-`Add your URL here`
+
 
 ---
 
