@@ -184,7 +184,7 @@ https://www.linkedin.com/posts/inioluwa-oyebajo-486437398_completed-a-five-day-m
 
 #### LinkedIn Screenshot 1 — Published LinkedIn post showing the post content and at least one required link or proof image
 
-Add your screenshot here.
+![alt text](<screenshots/Linkedin post for assignment 3.png>)
 
 ---
 
