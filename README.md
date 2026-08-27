@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
+| **Name** | Oyebajo Inioluwa Flourish |
+| **LinkedIn** | [Oyebajo Inioluwa- Tech enthusiast](https://www.linkedin.com/in/inioluwa-oyebajo-486437398?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| **Location** | Nigeria, Lagos |
 | **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Goal** | Build a solid foundation and grow in the tech world |
 
 ---
 
