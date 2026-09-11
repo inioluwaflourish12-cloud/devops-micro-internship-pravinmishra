@@ -20,19 +20,19 @@ Create a VNet (10.0.0.0/16) with a public subnet (10.0.1.0/24) for the VM and a 
 
 #### Screenshot 1 — Virtual Network overview showing the 10.0.0.0/16 address space and both subnets
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 5 task1).png>)
 
 ---
 
 #### Screenshot 2 — Public and private NSG inbound rules showing ports 80, 22, and restricted 3306 access
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 5 task1).png>)
 
 ---
 
 #### Screenshot 3 — Public IP and Network Interface association for the Virtual Machine
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 5 task1).png>)
 
 ---
 
@@ -46,13 +46,13 @@ Launch an Ubuntu 22.04 LTS VM (Standard B1s or equivalent) in the public subnet,
 
 #### Screenshot 4 — Virtual Machine overview showing Ubuntu, size, public IP, and subnet
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 5 task2).png>)
 
 ---
 
 #### Screenshot 5 — Terminal showing successful software installation or installed-version checks
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 5 task2).png>)
 
 ---
 
@@ -92,19 +92,19 @@ Create a private Azure Database for MySQL Flexible Server (VNet Integration) in 
 
 #### Screenshot 9 — MySQL Flexible Server overview showing Private access (VNet Integration)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 9 (Assignment 5 task4).png>)
 
 ---
 
 #### Screenshot 10 — Networking configuration showing the private subnet and restricted access
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 10 (Assignment 5 task 4).png>)
 
 ---
 
 #### Screenshot 11 — MySQL Client output showing the EpicBook database or imported tables (no password visible)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 11 (Assignment 5 task4).png>)
 
 ---
 
