@@ -66,19 +66,19 @@ Clone the EpicBook repository, install dependencies, build the frontend, configu
 
 #### Screenshot 6 — Terminal showing the EpicBook repository cloned and dependencies installed
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6 (Assignment 5 task3).png>)
 
 ---
 
 #### Screenshot 7 — Nginx configuration or service status proving the frontend is configured to be served
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 7 (Assignment 5 task 3).png>)
 
 ---
 
 #### Screenshot 8 — Backend process or listening-port evidence (without exposing environment-variable secrets)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 8 (Assignment 5 task3).png>)
 
 ---
 
@@ -118,13 +118,13 @@ Confirm the EpicBook application loads through the VM's public IP and that viewi
 
 #### Screenshot 12 — Browser showing the EpicBook application with the Virtual Machine public IP visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 12 (Assignment 5 task5).png>)
 
 ---
 
 #### Screenshot 13 — Proof of a successful database-backed action (viewing products, adding to cart, or placing an order)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 13 (Assignment 5 task5).png>)
 
 ---
 
@@ -132,7 +132,7 @@ Add your screenshot here.
 
 Paste the public IP URL of your Virtual Machine here:
 
-`Add your URL here`
+http://102.37.8.28
 
 ---
 
