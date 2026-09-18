@@ -20,13 +20,13 @@ Create an architecture diagram and implementation plan identifying the presentat
 
 #### Screenshot 1 — Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 6 task1).jpeg>)
 
 ---
 
 #### Screenshot 2 — Written architecture assumptions and selected Azure services
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 6 task1).jpeg>)
 
 ---
 
@@ -40,19 +40,19 @@ Create a dedicated Resource Group and VNet with separate subnets for the web, ap
 
 #### Screenshot 3 — Resource Group overview showing the assignment resources
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 6 task2).png>)
 
 ---
 
 #### Screenshot 4 — VNet overview showing the address space and all required subnets
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 6 task2).png>)
 
 ---
 
 #### Screenshot 5 — Route-table or Private DNS evidence where applicable
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 5 (Assignment 6 task2).png>)
 
 ---
 
@@ -66,13 +66,13 @@ Apply least-privilege NSG rules so traffic flows Internet → public entry point
 
 #### Screenshot 6 — NSG rules proving least-privilege access between the tiers
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 6 (Assignment6 task3).png>)
 
 ---
 
 #### Screenshot 7 — Key Vault or approved secret-management configuration (without displaying secret values)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 7 (Assignment 6 task3).png>)
 
 ---
 
@@ -86,13 +86,13 @@ Deploy the Book Review App presentation layer on the approved web-tier compute s
 
 #### Screenshot 8 — Web-tier compute overview showing subnet and availability configuration
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 8 (Assignment 6 task4).png>)
 
 ---
 
 #### Screenshot 9 — Terminal or service output proving the presentation layer is running
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 9 (Assignment 6 task 4).png>)
 
 ---
 
@@ -106,19 +106,19 @@ Deploy the Book Review App backend privately in the application subnet, configur
 
 #### Screenshot 10 — Application-tier compute overview showing private subnet placement
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 10 (Assignment 6 Task 5).png>)
 
 ---
 
 #### Screenshot 11 — Backend process, service, or listening-port evidence
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 11 (Assignment 6 task 5).png>)
 
 ---
 
 #### Screenshot 12 — Internal health-check or API response (without exposing secrets)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 12 (Assignment 6 task5).png>)
 
 ---
 
@@ -132,19 +132,19 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 13 — Database overview showing private connectivity and public access disabled
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 13 (Assignment 6 task6).png>)
 
 ---
 
 #### Screenshot 14 — Availability, backup, and retention configuration
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 14 (Assignment 6 task6).png>)
 
 ---
 
 #### Screenshot 15 — Successful schema or connectivity verification (without exposing credentials)
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 15 (Assignment 6 task6).png>)
 
 ---
 
@@ -158,19 +158,19 @@ Configure the approved public entry service with health probes and backend pools
 
 #### Screenshot 16 — Public entry service showing listener, frontend endpoint, and healthy web targets
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 16 (Assignment 6 task7).png>)
 
 ---
 
 #### Screenshot 17 — Internal application-tier load-balancing or routing configuration where applicable
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 17 (Assignment 6 task7).png>)
 
 ---
 
 #### Screenshot 18 — Azure Monitor, diagnostic settings, logs, metrics, or alert evidence
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 18 (Assignment 6 task7).png>)
 
 ---
 
@@ -184,25 +184,25 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 19 — Browser showing the Book Review App through the public endpoint
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 19(Assignment 6 task8).png>)
 
 ---
 
 #### Screenshot 20 — Proof of successful database-backed read and write operations
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 20 (Assignment 6 task8).png>)
 
 ---
 
 #### Screenshot 21 — Evidence that private tiers are not publicly accessible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 21 (Assignment 6 task8).png>)
 
 ---
 
 #### Screenshot 22 — Availability-test and healthy-target evidence
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 22 (Assignment 6 task8).png>)
 
 ---
 
@@ -210,7 +210,7 @@ Add your screenshot here.
 
 Paste your public endpoint URL here:
 
-`Add your URL here`
+http://book-review-web-alb-447530206.us-east-1.elb.amazonaws.com
 
 ---
 
@@ -218,7 +218,10 @@ Paste your public endpoint URL here:
 
 Summarize what worked, issues encountered and how they were fixed, and the availability/security/secrets/monitoring/backup choices made.
 
-Write your answer here.
+The Book Review application was successfully deployed on Azure using a three-tier architecture with separate Web, App, and Database layers. The Web VM was created in Central India using Ubuntu Server 24.04 LTS, and the required tools including Git, Nginx, Node.js, and npm were installed successfully. The application repository was cloned and its dependencies were installed without errors.
+During the deployment, we encountered some issues with Azure VM size availability and MySQL regional provisioning. These were resolved by moving the compute resources to Central India and adjusting the database deployment approach. We also encountered a database connection error because the application initially attempted to connect to MySQL through 127.0.0.1:3306. This was addressed by configuring the application to use the separate Azure database instead of a local MySQL instance.
+For availability, the Web VM was deployed using Availability Zone 1, with the architecture separated into Web, App, and Database subnets. Security was handled using Network Security Groups with restricted access to SSH, application, HTTP/HTTPS, and MySQL ports. Secrets were planned to be managed through Azure Key Vault rather than being exposed directly in the application. Monitoring was configured through Azure Monitor for resource health, performance, and alerts. Backups were handled using the managed backup capabilities of Azure Database for MySQL Flexible Server to support database recovery.
+Overall, the deployment established the required Azure infrastructure, security controls, application environment, and supporting services for the Book Review application.
 
 ---
 
