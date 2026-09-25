@@ -164,13 +164,13 @@ Confirm the application communicates with the RDS database through the ALB DNS n
 
 #### Screenshot 17 — Browser showing the application loaded through the ALB DNS name with the URL visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 17 (Assignment 5 task7).PNG>)
 
 ---
 
 #### Screenshot 18 — Proof of a database write through a UI message or database query output
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 18 (Assignment 5 task7).PNG>)
 
 ---
 
@@ -184,25 +184,25 @@ Test A: terminate one web instance and confirm the Auto Scaling Group replaces i
 
 #### Screenshot 19 — EC2 showing the terminated instance and the newly launched instance
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 19 (Assignment 5 task8).PNG>)
 
 ---
 
 #### Screenshot 20 — Target group showing healthy targets after replacement
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 20 (Assignment 5 task8).PNG>)
 
 ---
 
 #### Screenshot 21 — Evidence that an instance was removed, detached, placed in Standby, or stopped in one Availability Zone
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 21 (Assignment 5 task8).PNG>)
 
 ---
 
 #### Screenshot 22 — Browser showing that the ALB DNS endpoint still works during the change
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 22 (Assignment 5 task8).PNG>)
 
 ---
 
@@ -216,7 +216,7 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 #### Screenshot 23 — A simple architecture diagram (hand-drawn is fine), or an AWS console overview showing the components
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshoot 23 (Assignment 5 task9).PNG>)
 
 ---
 
