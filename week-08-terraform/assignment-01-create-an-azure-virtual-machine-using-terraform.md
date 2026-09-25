@@ -80,7 +80,7 @@ Use Azure CLI to confirm the VM was created and is running.
 
 #### Screenshot 7 — Azure CLI output showing the VM name and running status
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 7 (Assignment 1 task4).png>)
 
 ---
 
@@ -94,7 +94,7 @@ Run `terraform destroy` to clean up the Azure resources after testing.
 
 #### Screenshot 8 — Terminal showing successful `terraform destroy` completion
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 8 (Assignment 1 task5).png>)
 
 ---
 
@@ -102,7 +102,7 @@ Add your screenshot here.
 
 Write a short paragraph explaining what you learned or any issues you encountered.
 
-Write your answer here.
+ I learned how to use Terraform to provision and manage Azure resources, including a resource group, virtual network, public IP address, network interface, and virtual machine. I also learned how Terraform uses configuration files and state to keep track of deployed resources. One issue I encountered was making sure I was using the correct Terraform version and Azure subscription, but after resolving the setup issues, I was able to successfully initialize, plan, apply, verify, and destroy the Terraform-managed resources. Overall, the assignment gave me a better understanding of Infrastructure as Code and how Terraform can simplify cloud resource management.
 
 ---
 
