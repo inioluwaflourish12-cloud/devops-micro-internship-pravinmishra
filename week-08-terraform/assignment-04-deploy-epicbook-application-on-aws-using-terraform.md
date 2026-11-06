@@ -20,13 +20,13 @@ Define a VPC (10.0.0.0/16) with a public subnet (10.0.1.0/24) and private subnet
 
 #### Screenshot 1 — Terraform configuration showing the VPC and both subnet CIDR ranges
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 2 (Assignment 4 task1).png>)
 
 ---
 
 #### Screenshot 2 — Terraform configuration showing the Internet Gateway, public route table, and both Security Groups
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 1 (Assignment 4 task1).png>)
 
 ---
 
@@ -40,13 +40,13 @@ Use Terraform to launch a t2.micro Ubuntu 22.04 EC2 instance in the public subne
 
 #### Screenshot 3 — Terraform apply output showing successful EC2 provisioning
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 3 (Assignment 4 task2).png>)
 
 ---
 
 #### Screenshot 4 — EC2 instance running in the AWS Console with the public IP and subnet visible
 
-Add your screenshot here.
+![alt text](<screenshots/Screenshot 4 (Assignment 4 task2).png>)
 
 ---
 
